@@ -1,0 +1,11 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/startPage",
+    "pages/routerPages/startPages/loginPage",
+    "pages/routerPages/startPages/registerPage",
+    "pages/routerPages/indexPages/Setting",
+    "pages/routerPages/indexPages/Moments",
+    "pages/routerPages/indexPages/chatWindow"
+  ]
+}
